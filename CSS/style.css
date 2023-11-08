@@ -1,0 +1,31 @@
+body {
+    background-color: #083b4c;
+}
+ul {
+    list-style-type: none;
+}
+#square-list li {
+    width: 165px;
+    height: 165px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.square-fizz {
+    background-color: #0cd6a1;
+}
+
+.square-buzz {
+    background-color: #ffd166;
+}
+
+.square-fizzbuzz {
+    background-color: #f0466f;
+}
+.square-number {
+    background-color: #1389b2;
+}
